@@ -1,2 +1,2 @@
 # proj2
-<h3>Hello</h3>
+<h3>git user intruction</h3>
